@@ -1,0 +1,9 @@
+{
+  "name": "crowd-risk-monitor-prototype",
+  "private": true,
+  "version": "0.2.0",
+  "description": "A simulation-only crowd-monitoring UI prototype.",
+  "scripts": {
+    "test": "node --test tests/*.test.cjs"
+  }
+}

@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editors
+.vscode/
+.idea/
+*.swp
+
+# Research output (regenerate with research/export_sample.py)
+*.png
+*.mp4
+*.mov
+
+# Large media (competition video uploads are ~80 MB and do not belong in git)
+*.mkv
+*.avi
